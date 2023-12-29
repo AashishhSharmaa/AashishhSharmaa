@@ -15,7 +15,7 @@
 ### Connect with me: 
 
 <p align="left">
-<a href="www.linkedin.com/in/aashishsharma30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashishsharma30" height="30" width="40" />
+<a href="www.linkedin.com/in/aashishsharma30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 
 <!-- 
 **AashishhSharmaa/AashishhSharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
