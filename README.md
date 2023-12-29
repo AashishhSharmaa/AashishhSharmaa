@@ -8,6 +8,8 @@
 
 ✒️ I possess proficiency in **Power BI, Tableau, Excel, SQL, and Python**.
 
+💡 I'm highly knowledgeable in **lean tools** and **process optimization**.
+
 📧 Reach out to me **aashishsharmaa.3016@gmail.com**
 
 📎 Portfolio Website: **https://aashishsharmaa.wixsite.com/aashishsharma**
