@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishhsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="aashishhsharmaa" /> </p>
-<!--
+🔭 I hold a master's degree in Industrial Engineering and possess a strong interest in data analytics.
+<!-- 
 **AashishhSharmaa/AashishhSharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
