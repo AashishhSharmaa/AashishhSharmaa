@@ -7,6 +7,10 @@
 ⚡ I'm skilled in **project management, data/business analytics, and business development**.
 
 ✒️ I possess proficiency in **Power BI, Tableau, Excel, SQL, and Python**.
+
+📫 Reach out to me **aashishsharmaa.3016@gmail.com**
+
+
 <!-- 
 **AashishhSharmaa/AashishhSharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
