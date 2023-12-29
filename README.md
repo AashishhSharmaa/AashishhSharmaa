@@ -8,7 +8,13 @@
 
 ✒️ I possess proficiency in **Power BI, Tableau, Excel, SQL, and Python**.
 
-📫 Reach out to me **aashishsharmaa.3016@gmail.com**
+📧 Reach out to me **aashishsharmaa.3016@gmail.com**
+
+📎**Portfolio Website:** https://aashishsharmaa.wixsite.com/aashishsharma
+
+
+
+### Connect with me: 
 
 
 <!-- 
