@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishhsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="aashishhsharmaa" /> </p>
 
-🎓 I hold a **master's degree in Industrial Engineering** and possess a strong interest in **data analytics**.
+🎓 I hold a **Master's degree in Engineering** and possess a strong interest in **data analytics**.
 
 ⚡ I'm skilled in **project management, data/business analytics, and business development**.
 
