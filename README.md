@@ -2,12 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishhsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="aashishhsharmaa" /> </p>
 
-🎓 I hold a **Master's degree in Engineering** and possess a strong interest in **data analytics**.
+🎓 I hold a **Master's degree in Engineering** and possess a strong experience in **data analytics + engineering**.
 
 ⚡ I'm skilled in **project management, data/business analytics, and business development**.
 
-✒️ I possess proficiency in **Power BI, Tableau, Excel, SQL, and Python**.
+✒️ I possess proficiency in:
 
+    **Tools: SQL [Stored Proc., Views, Joins], Python [Lib: pd, plt, Sklearn, ARIMA, etc], JIRA, [ETL]- SSIS/DBT/Alteryx/ADF.**
+    
+    **Cloud & Data Eng, Tech: Azure Databricks, Azure Data Factory, Synapse Analytics, Snowflake, Airflow, SSMS, Power Apps.**
+    
+    **BI Tools: Power BI (Power Query, DAX, Data Modeling), Tableau, Microsoft Excel (Pivot Table, Macros).**
+   
 💡 I'm highly knowledgeable in **lean tools** and **process optimization**.
 
 📧 Reach out to me **aashishsharmaa.3016@gmail.com**
