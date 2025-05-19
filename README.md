@@ -9,7 +9,9 @@
 ✒️ I possess proficiency in:
 
    **1. Tools: SQL [Stored Proc., Views, Joins], Python [Lib: pd, plt, Sklearn, ARIMA, etc], JIRA, [ETL]- SSIS/DBT/Alteryx/ADF.**
+   
    **2. Cloud & Data Eng, Tech: Azure Databricks, Azure Data Factory, Synapse Analytics, Snowflake, Airflow, SSMS, Power Apps.**
+   
    **3. BI Tools: Power BI (Power Query, DAX, Data Modeling), Tableau, Microsoft Excel (Pivot Table, Macros).**
    
 💡 I'm highly knowledgeable in **lean tools** and **process optimization**.
